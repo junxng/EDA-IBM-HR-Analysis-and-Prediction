@@ -1,4 +1,4 @@
-# EDA-IBM-HR-Analysis-and-Prediction
+# EDA IBM HR Analysis and Prediction
 
 This notebook inspects the employee attrition (turnover), which is unavoidable but controllable if a wise and sensitive management policy is applied.
 
